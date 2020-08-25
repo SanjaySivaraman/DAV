@@ -1,2 +1,2 @@
 # DAV
-All my work as a data science intern at DAV would be hosted here.
+All my work as a Data Science intern at DAV would be hosted here. 
